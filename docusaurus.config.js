@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Chromebook Exploit Guide',
   tagline: 'An updated exploit guide and wiki for a wide variety of Chromebook exploits and tools.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/chrome.png',
 
   // Set the production url of your site here
   url: 'https://cb.whale.x10.mx',
@@ -70,7 +70,7 @@ const config = {
         title: 'Chromebook Exploit Guide',
         logo: {
           alt: 'Chromebook Exploit Guide Logo',
-          src: 'img/logo.svg',
+          src: 'img/chrome.png',
         },
         items: [
           {
