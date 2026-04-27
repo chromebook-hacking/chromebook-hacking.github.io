@@ -4,7 +4,7 @@ An updated exploit guide and wiki for a wide variety of chromebook exploits and 
 
 ## NOTICE
 
-If GoGuardian blocks this on your school computer, fork this repo and follow the guide below to access it while unblocked. (Brain and GitHub knowledge needed)
+If GoGuardian blocks this on your school computer, fork this repo and follow the guide below to access it while unblocked. (Brain and GitHub knowledge needed) (Or you can just browse the "docs" folder)
  
 ### Installation
  
